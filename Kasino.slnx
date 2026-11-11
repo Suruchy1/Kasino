@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Kasino.Application/Kasino.Application.csproj" />
+  <Project Path="Kasino.Domain/Kasino.Domain.csproj" />
+  <Project Path="Kasino.Infrastructure/Kasino.Infrastructure.csproj" />
+  <Project Path="Kasino.Web/Kasino.Web.csproj" />
+</Solution>
